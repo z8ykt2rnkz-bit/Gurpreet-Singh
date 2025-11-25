@@ -38,8 +38,6 @@ I enjoy building clean, responsive, and user-friendly web interfaces. I’m cons
 
 ## 📂 **Projects**
 
-*(Add your projects here when ready — e.g. portfolio website, mini web apps, assignments, etc.)*
-
 Example format:
 
 * **Project Name** — Short description
